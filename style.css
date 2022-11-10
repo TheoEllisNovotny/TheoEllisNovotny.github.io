@@ -1,9 +1,30 @@
 h1 {
-    font-size: 120;
+    font-size: 70px;
+    text-align: center;
+    color: #f1df60;
 }
+
+h2 {
+    text-align: center;
+    color: #fbeb7d;
+}
+
+h3{
+    text-align:center;
+    color: #ffffff;
+}
+
 
 body {
 
-font-family: Arial;
+    font-family: Georgia;
+    background-color: #292929;
+    color: #ffffff;
+
+}
+
+a{
+    color: #fbeb7d;
+
 
 }
